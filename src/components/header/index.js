@@ -10,16 +10,16 @@ export default function Header({ onDataUser }) {
 
   return (
     <S.DivHead>
-      <S.Tittle>Welcome to</S.Tittle>
-      <S.Logo>GIFSEARCH</S.Logo>
+      <S.Tittle>Tap Dat</S.Tittle>
+      <S.Logo>Ass</S.Logo>
       <form onSubmit={sendData}>
         <S.Input
           autoFocus
           type="text"
-          placeholder="Search GIF"
+          placeholder="👩🍑"
           onChange={(e) => setSearch(e.target.value)}
         ></S.Input>
-        <S.Button>Search</S.Button>
+        <S.Button>Slap It</S.Button>
       </form>
     </S.DivHead>
   );
