@@ -16,7 +16,7 @@ export default function Header({ onDataUser }) {
         <S.Input
           autoFocus
           type="text"
-          placeholder="👩🍑"
+          placeholder="👫👫👫👫.eth"
           onChange={(e) => setSearch(e.target.value)}
         ></S.Input>
         <S.Button>Slap It</S.Button>
