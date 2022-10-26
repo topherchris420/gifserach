@@ -10,8 +10,8 @@ export default function Header({ onDataUser }) {
 
   return (
     <S.DivHead>
-      <S.Tittle>👫👫👫👫.eth</S.Tittle>
-      <S.Logo>MIT Press Gif Search</S.Logo>
+      <S.Tittle>MIT Press</S.Tittle>
+      <S.Logo>Gif Search</S.Logo>
       <form onSubmit={sendData}>
         <S.Input
           autoFocus
