@@ -16,10 +16,10 @@ export default function Header({ onDataUser }) {
         <S.Input
           autoFocus
           type="text"
-          placeholder="👫👫👫👫.eth"
+          placeholder="💡"
           onChange={(e) => setSearch(e.target.value)}
         ></S.Input>
-        <S.Button>Slap It</S.Button>
+        <S.Button>🚀</S.Button>
       </form>
     </S.DivHead>
   );
