@@ -10,7 +10,7 @@ export default function Body({ quest }) {
           <CopyToClipboard
             text={"https://media.giphy.com/media/" + i.id + "/giphy.gif"}
           >
-            <S.Button>Copy</S.Button>
+            <S.Button>🖨</S.Button>
           </CopyToClipboard>
         </S.GifDiv>
       );
