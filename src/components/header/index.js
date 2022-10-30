@@ -10,7 +10,7 @@ export default function Header({ onDataUser }) {
 
   return (
     <S.DivHead>
-      <S.Tittle>christopher's</S.Tittle>
+      <S.Tittle>chris's</S.Tittle>
       <S.Logo>gif search</S.Logo>
       <form onSubmit={sendData}>
         <S.Input
