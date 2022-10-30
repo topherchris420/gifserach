@@ -1,4 +1,4 @@
-# GIFSEARCH
+# chris's gif search
 
 <p> An application that provides you to search a lot of funny GIFs </p>
 
