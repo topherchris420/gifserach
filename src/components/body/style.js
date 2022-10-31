@@ -5,7 +5,7 @@ export const BodyDiv = styled.div`
   padding-top: 23vh;
   display: flex;
   flex-wrap: wrap;
-  background-color: #f2dd6e;
+  background-color: #00539cff;
   @media (max-width: 1200px) {
     padding-top: 280px;
   }
