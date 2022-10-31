@@ -36,9 +36,9 @@ export const Button = styled.button`
     margin-top: 10px;
   }
   &:hover {
-    background-color: #b87d4b;
-    border: 3px solid #f2dd6e;
-    color: #f2dd6e;
+    background-color: #00539cff;
+    border: 3px solid #eea47fff;
+    color: #eea47fff;
     box-shadow: 5px 5px 15px #b87d4b;
     opacity: initial;
   }
