@@ -19,7 +19,7 @@ export default function Header({ onDataUser }) {
           placeholder="👨🏾‍🌾"
           onChange={(e) => setSearch(e.target.value)}
         ></S.Input>
-        <S.Button>420🚀</S.Button>
+        <S.Button>Press Me🕹️</S.Button>
       </form>
     </S.DivHead>
   );
