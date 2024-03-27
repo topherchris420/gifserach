@@ -10,13 +10,13 @@ export default function Header({ onDataUser }) {
 
   return (
     <S.DivHead>
-      <S.Tittle>chris's</S.Tittle>
-      <S.Logo>gif search</S.Logo>
+      <S.Tittle>Vers3Dynamics's</S.Tittle>
+      <S.Logo>Gif Hunt</S.Logo>
       <form onSubmit={sendData}>
         <S.Input
           autoFocus
           type="text"
-          placeholder="💡"
+          placeholder="👨🏾‍🌾"
           onChange={(e) => setSearch(e.target.value)}
         ></S.Input>
         <S.Button>420🚀</S.Button>
